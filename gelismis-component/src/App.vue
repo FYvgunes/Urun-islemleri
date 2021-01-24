@@ -26,18 +26,13 @@
         <hr />
         <p>{{ selectedComponent }}</p>
         <hr />
-        <component :is="selectedComponent">
-          <h3 slot="padding">Vue Js Öğrenmek için geceleri yatmıyor</h3>
-          <h1 slot="">Bilgi Emek İster</h1>
-        </component>
-        <!--       <app-memory >-->
-        <!--         <hr>-->
-        <!--         <hr>-->
-        <!--         <hr>-->
+        <keep-alive>
+          <component :is="selectedComponent">
+            <h3 slot="padding">Vue Js Öğrenmek için geceleri yatmıyor</h3>
+            <h1 slot="">Bilgi Emek İster</h1>
+          </component>
+        </keep-alive>
 
-        <!--         <p slot="heading"> Veysel Güneş</p>-->
-
-        <!--       </app-memory>-->
       </div>
     </div>
   </div>
