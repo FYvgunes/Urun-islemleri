@@ -20,8 +20,8 @@
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
           <h3>Custom Directiv"e</h3>
-          <p v-color.delay="'red'">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque autem eligendi
-            iure nostrum quam quod veritatis voluptatum. Earum esse eum natus quia tempore!</p>
+               <p v-color.delay="'red'">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque autem eligendi
+            iure nostrum quam q∏∏uod veritatis voluptatum. Earum esse eum natus quia tempore!</p>
 
         </div>
       </div>
@@ -32,10 +32,25 @@
 
 <script>
 export default {
-  name: 'app',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
+  directives:{
+    "color":{
+      bind(el,binding,vnode) {
+        if (binding.modifiers["delay"]) {
+          setTimeout(() => {
+            if (binding.arg == "background") {
+              el.style.backgroundColor = binding.value;
+            } else {
+              el.style.color = binding.value;
+            }
+          }, 2000)
+        } else {
+          if (binding.arg == "background") {
+            el.style.backgroundColor = binding.value;
+          } else {
+            el.style.color = binding.value;
+          }
+        }
+      }
     }
   }
 }
