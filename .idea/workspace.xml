@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7abc4ba-6868-4fa4-b1e4-f26d72e66620" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/filtermixing/src/filterList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filtermixing/src/productlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filtermixing/vue-animate/src/components/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filtermixing/vue-animate/src/components/Post.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Directivew/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Directivew/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Directivew/vue-cli-directive/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Directivew/vue-cli-directive/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Directivew/vue-cli-directive/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Directivew/vue-cli-directive/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Celebrate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/DefaultCard.Vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Failure.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/GameCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pogoca Nerede/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pogoca Nerede/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pogoca Nerede/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Pogoca Nerede/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,9 @@
     </layout>
   </component>
   <component name="ProjectId" id="1nfWgRsPOxBVDzit1Nil5Xcncm9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,7 +64,7 @@
       <updated>1611781735855</updated>
       <workItem from="1611781737278" duration="5525000" />
       <workItem from="1611992425809" duration="875000" />
-      <workItem from="1612464835330" duration="11045000" />
+      <workItem from="1612464835330" duration="23752000" />
     </task>
     <servers />
   </component>
