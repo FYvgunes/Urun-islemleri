@@ -6,7 +6,7 @@
         :is="activeComponent">
     </component>
     <canvas key="canvas" id="canvas"  v-show="activeComponent == 'app-celebrate'"></canvas>
-  </transition-group>
+  <npm i/transition-group>
 
 </template>
 <script>

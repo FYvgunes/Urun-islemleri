@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7abc4ba-6868-4fa4-b1e4-f26d72e66620" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Card.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Celebrate.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/DefaultCard.Vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/Failure.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pogoca Nerede/src/components/GameCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pogoca Nerede/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pogoca Nerede/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pogoca Nerede/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Pogoca Nerede/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,7 +59,7 @@
       <updated>1611781735855</updated>
       <workItem from="1611781737278" duration="5525000" />
       <workItem from="1611992425809" duration="875000" />
-      <workItem from="1612464835330" duration="23752000" />
+      <workItem from="1612464835330" duration="25799000" />
     </task>
     <servers />
   </component>
