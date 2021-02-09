@@ -33,14 +33,14 @@ export default {
   },
   methods:{
     saveUser(){
-      this.$http.post("https://vueresource-c42a2-default-rtdb.firebaseio.com/users.json",{userName:this.userName})
+      this.$http.post("",{userName:this.userName})
       .then((response)=>{
         console.log(response);
       })
 
     },
     getUser(){
-      this.$http.get("https://vueresource-c42a2-default-rtdb.firebaseio.com/users.json")
+      this.$http.get()
       .then((response)=>{
         let data = response.data;
         for (let key in data){
