@@ -4,13 +4,13 @@ import VueResource from 'vue-resource'
 
 Vue.use(VueResource);
 
-Vue.http.options.root = "https://vueresource-c42a2-default-rtdb.firebaseio.com/users.json"
+Vue.http.options.root = "https://vueresource-c42a2-default-rtdb.firebaseio.com"
 
 Vue.http.interceptors.push((request, next) =>{
   next(response =>{
     response.json=()=>{
       return{
-        Userlist:response.body
+        userList:response.body
       }
     }
   });

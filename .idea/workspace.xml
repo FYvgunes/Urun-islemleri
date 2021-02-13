@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7abc4ba-6868-4fa4-b1e4-f26d72e66620" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/UserEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/UserStart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/userdetails.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueResource/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueResource/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueResource/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueResource/src/main.js" afterDir="false" />
     </list>
@@ -50,6 +58,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vueResource/vue-router/src/component/user" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +75,9 @@
       <workItem from="1611992425809" duration="875000" />
       <workItem from="1612464835330" duration="25912000" />
       <workItem from="1612904864244" duration="1632000" />
+      <workItem from="1577836891540" duration="11000" />
+      <workItem from="1612993361632" duration="2047000" />
+      <workItem from="1613167575357" duration="8122000" />
     </task>
     <servers />
   </component>
