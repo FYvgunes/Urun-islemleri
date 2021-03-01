@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7abc4ba-6868-4fa4-b1e4-f26d72e66620" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/UserEdit.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/UserStart.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/user.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/component/user/userdetails.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueResource/vue-router/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex/src/components/Counter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex/src/components/Result.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex/src/store/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueResource/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueResource/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueResource/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueResource/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weater-app" beforeDir="false" afterPath="$PROJECT_DIR$/weater-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weater-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weater-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weater-app/weater-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/weater-app/weater-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weater-app/weater-app/src/assets/rainy.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     </layout>
   </component>
   <component name="ProjectId" id="1nfWgRsPOxBVDzit1Nil5Xcncm9" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -78,6 +76,8 @@
       <workItem from="1577836891540" duration="11000" />
       <workItem from="1612993361632" duration="2047000" />
       <workItem from="1613167575357" duration="8122000" />
+      <workItem from="1613593539020" duration="2843000" />
+      <workItem from="1614029449350" duration="2247000" />
     </task>
     <servers />
   </component>
