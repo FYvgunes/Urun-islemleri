@@ -30,7 +30,7 @@ const actions = {
             .then(response => {
 
                 let date = response.body;
-                console.log(date);
+
                 for (let key in date) {
                     date[key].key = key;
                     commit("updateProductList", date[key]);
@@ -65,9 +65,10 @@ const actions = {
             return element.key == payload.key
 
         });
-        let totalcount = product[0].count = payload.count;
+        let totalcount = product[0].count - payload.count;
         Vue.http.patch("https://vue-urunler-default-rtdb.firebaseio.com/product/"+payload.key+".json",{count:totalcount})
             .then(response =>{
+               product[0].count = totalcount;
                 let TradeResult = {
                     purchase: 0,
                     sale: product[0].price,

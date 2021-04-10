@@ -9,7 +9,7 @@ else
     state.sale += parseFloat(payload.sale) ;
 }
 
-state.balance =parseFloat(payload.sale) - parseFloat(payload.purchase);
+state.balance = parseFloat(payload.sale) - parseFloat(payload.purchase);
 
 
 
